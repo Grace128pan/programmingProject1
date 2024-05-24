@@ -42,3 +42,10 @@
     width: 350px;
   }
   
+  footer {
+    text-align: center;
+    padding: 16px;
+    background-color: #0a0a23;
+    color: #fff;
+    border-top: 4px solid #fdb347;
+  }
