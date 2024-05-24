@@ -1,5 +1,5 @@
 Student Name: Zhen Pan(ID.231AHG002)
-Project Name: Cat Hub webpage
+Project Name: Cat Hub Webpage
 Email: Zhen.Pan@edu.rtu.lv
 
 1.Project descriptions:
