@@ -50,3 +50,4 @@ PS:
    cat.html & cat.css are combined together to realize all the cat.html functionalities
    calorie.html & calorie.css & calorie.js are combined together to realize all the calorie.html functionalities 
 3. flex and bootstrap are used to make sure the webpage adjust sizes according to different screen sizes.
+4. CatHub Webpage.pptx gives a brief introduction about the main project features.
